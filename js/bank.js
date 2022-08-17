@@ -42,3 +42,4 @@ document.getElementById('btn-deposit').addEventListener('click', function(){
     // * step-. get the Withdraw amount from the withdraw input field
 
 })
+
